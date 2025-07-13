@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+En este repositorio compartiré proyectos sobre análisis de datos para distintas finalidades.
+🔭Actualmente estoy trabajando en un proyecto con Oracle pl/sql
 <!--
 **lopegabel/lopegabel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
